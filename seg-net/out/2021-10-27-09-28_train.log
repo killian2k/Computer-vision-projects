@@ -1,0 +1,6 @@
+2021-10-27 09:28:33,889 Namespace(eval_interval=1, frequent=10, gpus='', num_workers=4, out_dir='out')
+2021-10-27 09:28:33,946 => load 200 samples
+2021-10-27 09:28:33,950 => load 200 samples
+2021-10-27 09:28:57,127 Namespace(eval_interval=1, frequent=10, gpus='', num_workers=4, out_dir='out')
+2021-10-27 09:28:57,136 => load 200 samples
+2021-10-27 09:28:57,137 => load 200 samples
